@@ -1,0 +1,5 @@
+1. Round Robin.
+2. Preemptive Piority.
+3. First come first Serve.
+4. Non preemptive sjf.
+5. Preemptive sjf.
