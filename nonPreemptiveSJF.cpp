@@ -63,11 +63,11 @@ int main()
 	cout<<"How many Process: ";
 	cin>>num;
 	
-	cout<<"...Enter the process ID...\n";
+	cout<<"... Enter all the processes details ...\n";
 	for(int i=0; i<num; i++)
 	{
 		cout<<"...Process "<<i+1<<"...\n";
-		cout<<"Enter Process Id: ";
+		cout<<"Enter Process No: ";
 		cin>>mat[i][0];
 		cout<<"Enter Arrival Time: ";
 		cin>>mat[i][1];
